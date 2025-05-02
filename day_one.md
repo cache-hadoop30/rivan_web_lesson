@@ -263,6 +263,9 @@ function App() {
 
 export default App;
 ```
+![image](https://github.com/user-attachments/assets/2fecb881-dc2f-4af9-a491-0da7d9172ce2)
+
+
 
 ---
 ### Remember: Always cd the react folder before running the server
@@ -274,10 +277,11 @@ npm run dev
 ```
 
 ---
+![image](https://github.com/user-attachments/assets/985b57bc-1ead-4f6f-8d9d-81578c61f586)
 
-![image](https://github.com/user-attachments/assets/2fecb881-dc2f-4af9-a491-0da7d9172ce2)
 
 
+---
 
 
 
